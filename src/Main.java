@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Area rettangolo: " + rettangolo.calcolaArea());
 
         Forma triangolo = new Triangolo(4,5);
-        System.out.println("Area rettangolo: " + triangolo.calcolaArea());
+        System.out.println("Area triangolo: " + triangolo.calcolaArea());
     }
 }
